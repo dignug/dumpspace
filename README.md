@@ -46,3 +46,9 @@
 <p><a href="https://tailwindcss.com/">https://tailwindcss.com/</a> and <a href="https://icons8.com/">https://icons8.com/</a> were used in this project.</p>
 
 <p>Join the discord for more info and questions <a href="https://discord.gg/XZAqYVhpjm">here</a>.</p>
+
+<h2>Game-Specific Notes</h2>
+<p>Additional reference documents for specific games can be found in the <a href="Docs/">Docs/</a> folder:</p>
+<ul>
+<li><a href="Docs/dead-by-daylight-cheat-engine-handles.md">Dead by Daylight — Cheat Engine Process Handle Reference</a> — explains the <code>0x000012E8</code> EasyAntiCheat process handle that appears when attaching Cheat Engine to Dead by Daylight.</li>
+</ul>
